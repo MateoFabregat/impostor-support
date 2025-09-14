@@ -13,7 +13,7 @@ export default function SupportPage() {
                 Need Help?
               </h2>
               <p className="text-gray-600 leading-relaxed">
-                We're here to help you with any questions or issues you might have with our app.
+                We&apos;re here to help you with any questions or issues you might have with our app.
               </p>
             </section>
 
