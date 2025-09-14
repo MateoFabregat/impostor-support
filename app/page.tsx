@@ -50,8 +50,14 @@ export default function SupportPage() {
               <h2 className="text-xl font-semibold text-gray-800 mb-4">
                 Privacy
               </h2>
-              <p className="text-gray-600 leading-relaxed">
+              <p className="text-gray-600 leading-relaxed mb-4">
                 We respect your privacy and will only use your contact information to respond to your support request.
+              </p>
+              <p className="text-gray-600">
+                For detailed information about how we handle your data, please read our{" "}
+                <a href="/privacy" className="text-blue-600 hover:text-blue-800 underline">
+                  Privacy Policy
+                </a>.
               </p>
             </section>
           </div>
